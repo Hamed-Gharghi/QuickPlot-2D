@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [English](#english)
-- [Persian](#Persian (فارسی))
+- [Persian](#فارسی)
 
 ## English
 
@@ -87,7 +87,7 @@ For any questions or suggestions, contact me:
 
 ---
 
-## Persian (فارسی)
+## فارسی
 
 [بازگشت به بالا](#table-of-contents)
 
