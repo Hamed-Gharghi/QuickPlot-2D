@@ -161,15 +161,14 @@ X,Y
 
 ### Tags
 
-- #Python
-- #PyQt5
-- #DataVisualization
-- #2DPlot
-- #CSV
-- #TXT
-- #DarkTheme
-- #PlottingTool
-- #OpenSource
-- #MITLicense
+- Python
+- PyQt5
+- DataVisualization
+- 2DPlot
+- CSV
+- TXT
+- DarkTheme
+- PlottingTool
+- OpenSource
+- MITLicense
 
----
