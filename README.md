@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [English](#english)
-- [Persian](#persian)
+- [Persian](فارسی#)
 
 ## English
 
